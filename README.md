@@ -2,6 +2,10 @@
 
 **A humorous tip-collecting app that ensures you always get the "maximum appreciation!"**
 
+
+![Swift](https://img.shields.io/badge/Technologies-Swift-blue) ![SwiftUI](https://img.shields.io/badge/Technologies-SwiftUI-yellow) ![Xcode](https://img.shields.io/badge/Technologies-Xcode-orange)
+
+
 ## 📖 Overview
 **Leave a Tip!** is a playful project that brings laughter to social gatherings. The idea is simple: when you've done a small favor, whip out the app and let your friends "show their appreciation" by choosing a tip amount. But here’s the twist—while they can pick different tip percentages, only the maximum option works! It’s all in good fun, as there’s no real transaction here. Just sit back and enjoy their reaction!
 
