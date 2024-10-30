@@ -32,7 +32,7 @@
 ## 🧑‍💻 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/leave-a-tip.git
+   gh repo clone mariarodr1136/Leave-a-Tip
 2. Open the project in Xcode and build it on your device to start the fun!
 
 ## 🤔 Disclaimer
